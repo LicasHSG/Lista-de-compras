@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Compras</title>
+    <link rel="stylesheet" href="lista.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-side">
+            <h1>Lista de Compras</h1>
+            <input type="text" id="itemNameInput" placeholder="Digite o nome do item">
+            <button onclick="addItem()">Adicionar</button>
+            <ul id="shoppingList">
+                <li>
+                    <span class="column-header">Nome do Item</span>
+                    <span class="column-header">Quantidade</span>
+                    <span class="column-header">Preço</span>
+                    <span class="column-header">Total</span>
+                    <span class="column-header">Ações</span>
+                </li>
+            </ul>
+        </div>
+        <div class="right-side">
+            <h2>Finalizar Compra</h2>
+            <button onclick="finalizarCompra()">Finalizar</button>
+            <div id="lastPurchase">
+                <h3>Última Compra</h3>
+                <ul id="lastPurchaseList">
+                    <!-- Dados da última compra serão exibidos aqui -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="lista.js"></script>
+</body>
+</html>
