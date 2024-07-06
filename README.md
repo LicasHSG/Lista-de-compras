@@ -13,7 +13,8 @@ Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.</br
 
 
 <h3 align="center">Tecnologias Utilizadas</h3>
-<p align="center">HTML5: Estruturação da página.</br>
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html)]HTML5: Estruturação da página.</br>
 CSS3: Estilização e layout da aplicação.</br>
 JavaScript: Funcionalidades interativas e manipulação de dados.</br>
 IndexedDB: Armazenamento local de dados.</br>
