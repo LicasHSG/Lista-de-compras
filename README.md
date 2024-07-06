@@ -1,10 +1,10 @@
-<body align="center">
+
 <h1 align="center">Lista de compras interativa</h1>
 
 <p align="center">A Lista de Compras Interativa é uma aplicação web projetada para ajudar usuários a gerenciar suas compras de maneira organizada e eficiente.</p>
 
 <h3 align="center"> :hammer: Funcionalidades</h3>
-Adicionar Itens: Permite adicionar novos itens à lista de compras.</br>
+<p align="center">Adicionar Itens: Permite adicionar novos itens à lista de compras.</p></p></br>
 Editar Itens: Permite editar o nome, a quantidade e o preço dos itens.</br>
 Deletar Itens: Permite remover itens da lista de compras.</br>
 Ordenação Automática: Itens são automaticamente ordenados em ordem alfabética.</br>
@@ -19,4 +19,4 @@ JavaScript: Funcionalidades interativas e manipulação de dados.</br>
 IndexedDB: Armazenamento local de dados.</br>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-</body>
+
