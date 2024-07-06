@@ -13,10 +13,10 @@ Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.</br
 
 
 <h3 align="center">Tecnologias Utilizadas</h3>
-HTML5: Estruturação da página.</br>
+<p align="center">HTML5: Estruturação da página.</br>
 CSS3: Estilização e layout da aplicação.</br>
 JavaScript: Funcionalidades interativas e manipulação de dados.</br>
-IndexedDB: Armazenamento local de dados.</br>
+IndexedDB: Armazenamento local de dados.</br></p>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
