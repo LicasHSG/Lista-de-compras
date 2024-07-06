@@ -80,6 +80,17 @@ button.edit-button:hover {
     background-color: #007bb5;
 }
 
+button.finalize-button {
+    background-color: #ff5722;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button.finalize-button:hover {
+    background-color: #e64a19;
+}
+
 #lastPurchase {
     margin-top: 20px;
     text-align: left;
