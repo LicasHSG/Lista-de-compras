@@ -10,6 +10,7 @@ Deletar Itens: Permite remover itens da lista de compras.</br>
 Ordenação Automática: Itens são automaticamente ordenados em ordem alfabética.</br>
 Visualização Detalhada: Exibe colunas para nome do item, quantidade, preço e total.</br>
 Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.</br></p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <h3 align="center">Tecnologias Utilizadas</h3>
