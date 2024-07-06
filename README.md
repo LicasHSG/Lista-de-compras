@@ -3,12 +3,12 @@
 <p align="center">A Lista de Compras Interativa é uma aplicação web projetada para ajudar usuários a gerenciar suas compras de maneira organizada e eficiente.</p>
 
 # :hammer: Funcionalidades
-Adicionar Itens: Permite adicionar novos itens à lista de compras.
-Editar Itens: Permite editar o nome, a quantidade e o preço dos itens.
-Deletar Itens: Permite remover itens da lista de compras.
-Ordenação Automática: Itens são automaticamente ordenados em ordem alfabética.
-Visualização Detalhada: Exibe colunas para nome do item, quantidade, preço e total.
-Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.
+Adicionar Itens: Permite adicionar novos itens à lista de compras.<br>
+Editar Itens: Permite editar o nome, a quantidade e o preço dos itens.<br>
+Deletar Itens: Permite remover itens da lista de compras.<br>
+Ordenação Automática: Itens são automaticamente ordenados em ordem alfabética.<br>
+Visualização Detalhada: Exibe colunas para nome do item, quantidade, preço e total.<br>
+Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.<br>
 
 
 Tecnologias Utilizadas
