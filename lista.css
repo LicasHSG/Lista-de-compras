@@ -13,6 +13,22 @@ body {
     padding: 20px;
 }
 
+#imagem{
+    width: 40%;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    margin-top: 15em;    
+}
+
+#imagem2{
+    width: 17%;
+    position:absolute;
+    z-index: -1;
+    left: 0;
+    margin-top: 22em;
+}
+
 .left-side, .right-side {
     width: 48%;
     background-color: #fff;
@@ -28,6 +44,7 @@ h1, h2, h3 {
 .column-header {
     font-weight: bold;
     padding: 0 10px;
+    
 }
 
 ul {
@@ -99,8 +116,34 @@ button.finalize-button:hover {
 #lastPurchaseList li {
     padding: 5px 0;
     border-bottom: 1px solid #ddd;
+    
 }
 
 #lastPurchaseList li:last-child {
     border-bottom: none;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+    background-color: #ddd;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+   
+}
+
+#gitIcon{
+    margin: 0 5px;
+    width: 15px;
+    height: 15px;
 }

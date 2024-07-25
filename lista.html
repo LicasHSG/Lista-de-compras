@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Compras</title>
+    <link rel="stylesheet" href="lista.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-side">
+            <h1>Lista de Compras</h1>
+            <input type="text" id="itemNameInput" placeholder="Digite o nome do item">
+            <button onclick="addItem()">Adicionar</button>
+            <ul id="shoppingList">
+                <li>
+                    <span class="column-header">Nome do Item</span>
+                    <span class="column-header">Quantidade</span>
+                    <span class="column-header">Preço</span>
+                    <span class="column-header">Total</span>
+                    <span class="column-header">Ações</span>
+                </li>
+            </ul>
+            <button class="finalize-button" onclick="finalizarCompra()">Finalizar</button>
+        </div>
+        <div class="right-side">
+            <h2>Última Compra</h2>
+            <div id="lastPurchase">
+                <ul id="lastPurchaseList">
+                    <!-- Dados da última compra serão exibidos aqui -->
+                </ul>
+            </div>
+        </div> 
+        <img id="imagem" src="./assets/compras.png" alt=""> 
+        <img id="imagem2" src="./assets/personas.png" alt="">
+    </div>
+    <footer class="footer">
+        <p>Desenvolvido por <a href="https://github.com/LicasHSG">LucasGodoy</a></p>
+        <img id="gitIcon" src="./assets/github.png" alt="git icon">
+    </footer>
+    
+    <script src="lista.js"></script>
+</body>
+</html>
