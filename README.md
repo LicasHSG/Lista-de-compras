@@ -9,8 +9,8 @@ Editar Itens: Permite editar o nome, a quantidade e o preço dos itens.</br>
 Deletar Itens: Permite remover itens da lista de compras.</br>
 Ordenação Automática: Itens são automaticamente ordenados em ordem alfabética.</br>
 Visualização Detalhada: Exibe colunas para nome do item, quantidade, preço e total.</br>
-Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.</br></p>
-
+Persistência de Dados: Utiliza IndexedDB para armazenamento local de dados.
+https://licashsg.github.io/Lista-de-compras/
 
 
 <h3 align="center">Tecnologias Utilizadas</h3>
